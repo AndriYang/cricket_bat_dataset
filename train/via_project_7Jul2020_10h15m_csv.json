@@ -210,730 +210,901 @@
    "filename": "34.png",
    "file_size": 1417280,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[907,899,768,769,901,909,909],\"all_points_y\":[290,287,297,325,310,301,291]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "54.png",
    "file_size": 1355237,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[934,951,959,944,936,932],\"all_points_y\":[129,153,153,131,127,131]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "54.png",
+   "file_size": 1355237,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1148,1131,1117,1123,1139,1151],\"all_points_y\":[487,542,594,595,535,491]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "55.png",
    "file_size": 1424048,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[934,944,954,956,951,934],\"all_points_y\":[115,123,142,149,156,115]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "55.png",
+   "file_size": 1424048,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1149,1121,1132,1157,1149],\"all_points_y\":[506,607,606,499,503]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "56.png",
    "file_size": 1451075,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[954,940,946,954,960,954],\"all_points_y\":[117,110,129,146,141,118]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "56.png",
+   "file_size": 1451075,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1155,1123,1139,1163,1158,1155],\"all_points_y\":[508,615,609,504,502,511]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "57.png",
    "file_size": 1467599,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[951,937,950,955,955,951],\"all_points_y\":[142,109,117,120,141,146]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "57.png",
+   "file_size": 1467599,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1157,1142,1121,1151,1153,1161,1158],\"all_points_y\":[507,561,625,597,543,508,507]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "58.png",
    "file_size": 1508984,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[949,937,952,961,947],\"all_points_y\":[149,112,120,153,153]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "58.png",
+   "file_size": 1508984,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1163,1128,1149,1170,1165],\"all_points_y\":[517,640,615,515,516]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "59.png",
    "file_size": 1527978,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[951,937,956,956,951],\"all_points_y\":[148,118,131,144,152]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "59.png",
+   "file_size": 1527978,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1158,1132,1148,1156,1170,1158],\"all_points_y\":[528,636,624,587,521,528]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "60.png",
    "file_size": 1560055,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[949,942,930,931,947,952,949],\"all_points_y\":[166,152,134,132,143,163,168]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "60.png",
+   "file_size": 1560055,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1166,1132,1155,1172,1166],\"all_points_y\":[528,654,635,530,528]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "61.png",
    "file_size": 1579615,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[951,935,926,925,932,951,954,951],\"all_points_y\":[168,153,144,139,139,159,167,168]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "61.png",
+   "file_size": 1579615,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1170,1138,1162,1167,1178,1170],\"all_points_y\":[532,659,630,575,535,531]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "62.png",
    "file_size": 1619689,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[917,931,944,950,951,937,922,917],\"all_points_y\":[152,159,171,178,174,157,146,149]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "62.png",
+   "file_size": 1619689,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1168,1142,1161,1171,1172,1172,1172,1165],\"all_points_y\":[558,673,646,591,581,567,561,560]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "63.png",
    "file_size": 1635072,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[946,929,920,915,930,940,949,952,949],\"all_points_y\":[174,158,154,144,147,156,163,169,178]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "63.png",
+   "file_size": 1635072,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1172,1139,1153,1161,1168,1173,1173,1172,1176,1178,1175],\"all_points_y\":[563,674,669,653,635,612,599,591,570,566,565]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "64.png",
    "file_size": 1653360,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[951,931,912,914,920,934,949,951],\"all_points_y\":[171,143,141,147,148,162,176,172]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "64.png",
+   "file_size": 1653360,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1183,1144,1158,1176,1177,1177,1186,1185],\"all_points_y\":[556,693,685,641,617,596,562,558]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "65.png",
    "file_size": 1677078,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[950,929,916,912,919,926,937,944,947],\"all_points_y\":[164,138,133,133,139,146,159,167,164]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "65.png",
+   "file_size": 1677078,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1152,1182,1190,1178,1176,1167,1144],\"all_points_y\":[696,581,575,609,648,680,698]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "66.png",
    "file_size": 1708529,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[920,915,920,927,939,945,951,941,929,920],\"all_points_y\":[125,127,132,142,152,161,159,149,136,125]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "66.png",
+   "file_size": 1708529,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1187,1167,1152,1161,1181,1183,1183,1193,1188],\"all_points_y\":[579,659,712,710,669,641,617,582,581]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "67.png",
    "file_size": 1713170,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[950,941,914,914,929,941,945,954],\"all_points_y\":[161,136,118,124,143,156,162,158]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "67.png",
+   "file_size": 1713170,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1188,1155,1186,1186,1186,1188,1193,1195,1190],\"all_points_y\":[595,723,681,654,631,612,604,599,594]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "68.png",
    "file_size": 1726033,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[951,939,911,929,936,941,950],\"all_points_y\":[156,125,119,131,141,159,156]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
-   "filename": "69.png",
-   "file_size": 1811654,
+   "filename": "68.png",
+   "file_size": 1726033,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "70.png",
-   "file_size": 1846658,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "71.png",
-   "file_size": 1902128,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "72.png",
-   "file_size": 1914344,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "73.png",
-   "file_size": 2008115,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "74.png",
-   "file_size": 2036023,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "75.png",
-   "file_size": 2063192,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1190,1175,1156,1160,1168,1195,1197,1192,1192,1193,1187],\"all_points_y\":[602,665,725,732,732,663,637,629,604,601,601]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "84.png",
    "file_size": 1892010,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1128,1096,1133,1137,1131],\"all_points_y\":[860,942,940,905,857]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "85.png",
    "file_size": 1898665,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1093,1060,1091,1111,1111,1093],\"all_points_y\":[837,940,945,873,847,838]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "86.png",
    "file_size": 1827913,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1074,1030,1065,1096,1111,1112,1107,1077],\"all_points_y\":[862,940,940,866,842,823,818,862]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "87.png",
    "file_size": 1850314,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1085,1018,1054,1101,1085],\"all_points_y\":[847,942,941,847,847]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "88.png",
    "file_size": 1873505,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1084,1042,1025,1058,1069,1087,1088,1083],\"all_points_y\":[855,912,941,941,910,882,862,855]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "89.png",
    "file_size": 1859012,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1085,1060,1030,1027,1062,1067,1079,1092,1084],\"all_points_y\":[858,881,936,945,944,909,890,860,860]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "90.png",
    "file_size": 1875133,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1079,1057,1048,1025,1054,1057,1067,1084,1082,1079],\"all_points_y\":[856,883,893,945,944,926,904,876,856,856]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "91.png",
    "file_size": 1920450,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1077,1049,1040,1070,1078,1089,1088,1078],\"all_points_y\":[812,862,941,940,862,831,809,811]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "92.png",
    "file_size": 1940675,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1098,1075,1072,1094,1103,1098,1102,1099],\"all_points_y\":[791,822,945,945,846,833,791,793]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "93.png",
    "file_size": 1961386,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1114,1094,1091,1118,1126,1117,1122,1116],\"all_points_y\":[786,833,941,944,861,848,824,791]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "94.png",
    "file_size": 1943891,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1128,1112,1109,1141,1138,1131,1132,1131,1129],\"all_points_y\":[821,862,940,939,904,876,845,822,822]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "95.png",
    "file_size": 1948975,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1116,1097,1101,1131,1132,1121,1131,1126,1116],\"all_points_y\":[831,902,942,944,927,892,856,836,832]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "96.png",
    "file_size": 1964746,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "97.png",
-   "file_size": 1971191,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1096,1079,1080,1109,1113,1099,1098,1101,1093],\"all_points_y\":[806,850,941,941,897,873,845,827,801]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "98.png",
    "file_size": 1977623,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1072,1044,1035,1065,1083,1075,1080,1073,1070],\"all_points_y\":[772,880,937,941,846,821,769,764,774]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "99.png",
    "file_size": 1981289,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1069,1044,1003,1048,1069,1068,1083,1067],\"all_points_y\":[762,826,945,939,838,808,755,760]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "100.png",
    "file_size": 2004952,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1048,984,974,980,1028,1033,1019,1054,1058,1082,1077,1067,1062,1047],\"all_points_y\":[779,934,941,944,945,945,932,829,799,767,742,764,778,783]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "101.png",
    "file_size": 2031797,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1018,947,921,907,969,1000,989,1011,1028,1028,1047,1050,1047,1039,1033,1020,1011],\"all_points_y\":[743,882,915,944,944,893,883,816,782,773,744,727,720,728,742,742,752]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "102.png",
    "file_size": 2057482,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1014,944,932,883,954,988,975,1018,1018,1040,1047,1045,1034,1011],\"all_points_y\":[727,858,865,940,947,871,860,773,748,727,694,690,714,730]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "103.png",
    "file_size": 2060297,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1001,942,925,875,875,939,979,970,1006,1019,1034,1027,1014,1005,1000],\"all_points_y\":[707,819,848,935,939,944,848,843,742,717,684,694,712,712,712]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "104.png",
    "file_size": 2004625,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[975,902,888,808,882,955,935,989,1010,1010,989,975],\"all_points_y\":[684,809,812,941,945,813,806,708,673,663,684,685]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "105.png",
    "file_size": 1980646,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[957,896,881,809,880,936,924,969,983,996,988,959,954],\"all_points_y\":[688,806,812,945,945,818,812,715,689,668,661,683,688]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "106.png",
    "file_size": 1985516,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[939,880,867,806,872,926,915,915,929,959,970,970,959,940],\"all_points_y\":[688,814,818,939,945,822,816,797,773,693,668,658,666,689]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "107.png",
    "file_size": 2002619,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[919,876,856,811,880,924,904,917,937,947,950,935,920],\"all_points_y\":[675,817,824,945,947,821,812,778,686,668,650,668,678]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "108.png",
    "file_size": 2017347,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[921,883,873,823,823,888,925,906,937,937,947,944,934,920],\"all_points_y\":[676,806,807,935,940,947,809,798,703,674,661,649,669,679]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "109.png",
    "file_size": 2055844,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[930,900,883,836,899,934,925,949,952,959,957,944,932],\"all_points_y\":[663,776,803,945,944,794,781,678,658,648,632,651,660]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "110.png",
    "file_size": 2101824,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[956,917,904,837,893,957,945,944,959,969,979,983,973,956],\"all_points_y\":[635,758,764,945,941,765,764,748,694,653,644,614,631,635]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "111.png",
    "file_size": 2119943,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[975,929,911,829,891,969,957,976,981,989,1006,1003,991,969],\"all_points_y\":[629,742,744,941,944,748,737,694,653,634,619,601,621,632]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "112.png",
    "file_size": 2150241,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[991,944,927,828,895,983,971,1010,990],\"all_points_y\":[621,719,719,939,944,728,724,629,622]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "113.png",
    "file_size": 2171976,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1040,985,968,856,867,902,910,1023,1013,1015,1050,1065,1040],\"all_points_y\":[609,705,704,912,922,936,936,722,710,690,636,610,612]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "114.png",
    "file_size": 2178008,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1073,1032,1020,1008,896,936,947,991,1055,1050,1049,1060,1091,1072],\"all_points_y\":[624,700,710,709,900,921,916,843,727,722,710,685,627,625]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "115.png",
    "file_size": 2187098,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1096,1058,1038,954,981,1013,1091,1078,1104,1109,1097],\"all_points_y\":[630,713,712,895,907,915,730,718,660,640,632]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "116.png",
    "file_size": 2232042,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1097,1079,1068,1035,1064,1091,1119,1107,1107,1108,1098],\"all_points_y\":[634,712,724,907,916,915,732,720,705,646,635]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "117.png",
    "file_size": 2251420,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1088,1101,1089,1119,1158,1168,1175,1165,1136,1126,1107,1101,1088],\"all_points_y\":[650,724,733,915,929,926,917,821,735,729,669,648,651]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "118.png",
    "file_size": 2083215,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1078,1186,1147,1065,1055,1080],\"all_points_y\":[656,813,808,670,639,660]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "119.png",
    "file_size": 1596551,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
- },
- {
-   "filename": "123.png",
-   "file_size": 1789970,
-   "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
-   "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1042,1153,1180,1177,1134,1039,1038],\"all_points_y\":[643,771,782,793,783,673,643]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "124.png",
    "file_size": 2104336,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[949,909,939,966,960,949],\"all_points_y\":[719,809,831,778,747,715]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "125.png",
    "file_size": 1742684,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[947,939,910,911,929,946,947],\"all_points_y\":[156,127,117,128,142,158,153]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "125.png",
+   "file_size": 1742684,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1195,1160,1170,1182,1196,1196,1193,1196,1195],\"all_points_y\":[611,737,735,717,683,663,644,617,612]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "126.png",
    "file_size": 1762649,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[939,932,901,924,936,941],\"all_points_y\":[166,151,119,123,147,169]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "126.png",
+   "file_size": 1762649,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1188,1167,1182,1188,1195,1201,1195,1193,1193,1188],\"all_points_y\":[610,747,742,713,693,664,648,621,619,611]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "127.png",
    "file_size": 1767486,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[944,921,895,914,945,945,944],\"all_points_y\":[163,122,118,138,178,167,159]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "127.png",
+   "file_size": 1767486,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1193,1165,1181,1191,1202,1202,1200,1202,1193],\"all_points_y\":[620,750,754,728,701,664,648,625,619]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "128.png",
    "file_size": 1749906,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[934,887,876,891,921,934],\"all_points_y\":[181,137,143,149,176,181]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "128.png",
+   "file_size": 1749906,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1201,1196,1190,1173,1196,1203,1210,1215,1208,1207,1202],\"all_points_y\":[649,689,691,782,784,758,719,698,688,654,650]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "129.png",
    "file_size": 1738021,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[931,872,870,921,931],\"all_points_y\":[202,166,177,207,201]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "129.png",
+   "file_size": 1738021,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1219,1208,1201,1183,1205,1220,1225,1221,1220,1219],\"all_points_y\":[670,714,718,811,816,755,724,708,669,669]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "130.png",
    "file_size": 1729280,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[929,878,855,919,929],\"all_points_y\":[217,186,184,228,216]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "130.png",
+   "file_size": 1729280,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1224,1224,1212,1196,1225,1234,1239,1232,1235,1224],\"all_points_y\":[715,758,763,858,861,809,757,754,715,712]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "131.png",
    "file_size": 1718188,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[878,842,907,914,921,877],\"all_points_y\":[179,183,222,228,223,181]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "131.png",
+   "file_size": 1718188,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1236,1234,1227,1216,1239,1251,1242,1244,1239],\"all_points_y\":[735,779,786,871,870,783,778,734,738]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "132.png",
    "file_size": 1580965,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[811,843,873,885,877,845,833,808,809],\"all_points_y\":[148,179,236,261,266,206,182,154,151]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "134.png",
    "file_size": 1527895,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[783,778,845,848,855,860,856,860,781],\"all_points_y\":[169,195,269,269,269,266,262,252,167]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "135.png",
    "file_size": 1474389,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[740,735,851,853,866,870,857,857,737],\"all_points_y\":[225,253,295,284,290,285,277,267,227]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "136.png",
    "file_size": 1366183,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[975,986,995,1027,1014,1001,976],\"all_points_y\":[319,363,366,350,329,312,316]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "137.png",
    "file_size": 1284894,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1065,1151,1219,1191,1124,1069,1068],\"all_points_y\":[329,319,338,364,340,348,324]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "138.png",
    "file_size": 1394302,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1033,1227,1301,1296,1266,1177,1148,1033,1030],\"all_points_y\":[371,301,297,311,326,345,339,380,365]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "139.png",
    "file_size": 1424049,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 1,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[1038,1167,1264,1314,1310,1195,1180,1128,1044,1037],\"all_points_y\":[393,328,277,277,294,343,338,364,403,389]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "140.png",
    "file_size": 1438694,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[856,881,891,904,905,890,875,853],\"all_points_y\":[537,508,496,487,493,504,525,542]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "140.png",
+   "file_size": 1438694,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[936,939,946,950,954,950,946,945,936],\"all_points_y\":[750,819,824,823,817,793,773,748,749]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "141.png",
    "file_size": 1514204,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[809,836,848,852,853,837,811,807],\"all_points_y\":[543,508,501,499,502,523,548,547]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "141.png",
+   "file_size": 1514204,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[887,888,890,899,895,897,892,891],\"all_points_y\":[734,779,803,787,772,737,733,733]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "142.png",
    "file_size": 1554886,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[632,654,670,674,654,632,631],\"all_points_y\":[572,552,540,543,555,576,573]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "142.png",
+   "file_size": 1554886,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[709,710,715,720,724,722,712],\"all_points_y\":[715,765,773,763,753,714,718]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "143.png",
    "file_size": 1582105,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[561,587,601,601,595,584,558],\"all_points_y\":[585,557,551,556,560,572,586]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "143.png",
+   "file_size": 1582105,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[645,645,649,654,654,651,648],\"all_points_y\":[725,776,777,769,752,723,723]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "144.png",
    "file_size": 1535025,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[420,452,461,435,420],\"all_points_y\":[595,572,572,591,596]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "144.png",
+   "file_size": 1535025,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[512,509,511,521,521,521,518,511],\"all_points_y\":[728,791,802,782,768,735,730,727]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "145.png",
    "file_size": 1569541,
    "file_attributes": "{\"crickt bat\":\"\"}",
-   "region_count": 0,
+   "region_count": 2,
    "region_id": 0,
-   "region_shape_attributes": "{}",
-   "region_attributes": "{}"
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[162,206,212,157,158,162],\"all_points_y\":[606,587,596,616,607,605]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
+ },
+ {
+   "filename": "145.png",
+   "file_size": 1569541,
+   "file_attributes": "{\"crickt bat\":\"\"}",
+   "region_count": 2,
+   "region_id": 1,
+   "region_shape_attributes": "{\"name\":\"polyline\",\"all_points_x\":[289,289,290,296,299,299,292,289],\"all_points_y\":[738,781,789,786,773,739,729,740]}",
+   "region_attributes": "{\"cricket bat\":\"cricket_bat\"}"
  },
  {
    "filename": "148.png",
